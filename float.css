@@ -1,0 +1,10 @@
+#me  {
+float: right;    
+ margin: 0 0 10px 15px;
+}
+
+#floated-imgs { 
+    float: right;
+    margin: 15px 15px 15px 15px; 
+}
+#floated-imgs img {display: block; }
